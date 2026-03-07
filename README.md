@@ -25,3 +25,17 @@ Install libraries:
 pip install pandas matplotlib openpyxl
 Run the program 
 python main.py
+
+## Security & Sandbox (Week 3)
+
+To ensure safe execution, the project runs inside a Docker container.
+
+Security features:
+- Code execution isolated using Docker
+- Only required libraries installed (pandas, matplotlib, openpyxl)
+- Prevents unauthorized access to the host system
+
+Run using Docker:
+
+docker build -t statbotpro .
+docker run statbotpro
