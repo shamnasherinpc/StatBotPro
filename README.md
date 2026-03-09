@@ -1,5 +1,10 @@
+
+# StatBotPro
+AI powered sales data analysis project using python , pandas, Langchain , and Ollama .
+
 #Sales data Analysis Project
 This project analyzez sales data using Python.
+
 
 ## Features 
 - Load dataset using pandas
@@ -19,6 +24,9 @@ This project analyzez sales data using Python.
 - Highest selling product 
 - Lowest selling product
 - sales chart visualization
+
+## Screenshot
+![Project Output] (sales_chart.png)
 
 ## How to Run
 Install libraries:
