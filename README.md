@@ -26,7 +26,7 @@ This project analyzez sales data using Python.
 - sales chart visualization
 
 ## Screenshot
-![Project Output] (sales_chart.png)
+![Project Output](sales_chart.png)
 
 ## How to Run
 Install libraries:
